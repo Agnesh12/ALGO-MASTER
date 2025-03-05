@@ -18,7 +18,7 @@ public class movezeros {
              }
 
          }
-        System.out.println(Arrays.toString(arr));
+
     }
     public static void main(String[] args) {
         int[] arr = {0, 1, 2, 0, 5, 6};
