@@ -10,7 +10,8 @@ public class longestcommonprefix {
             if(first[i] != last[i]) {
                 break;
             }
-            else {
+            else
+            {
                 ans.append(first[i]);
             }
         }
