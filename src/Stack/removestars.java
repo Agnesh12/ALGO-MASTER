@@ -1,7 +1,7 @@
 package Stack;
 import java.util.Stack;
 
-public class removestairs {
+public class removestars {
     static String findresult(String ans) {
         Stack<Character> result =  new Stack();
         StringBuilder  find = new StringBuilder();
