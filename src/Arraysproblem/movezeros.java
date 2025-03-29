@@ -1,5 +1,5 @@
-package Arrays;
-import java.util.Arrays;
+package Arraysproblem;
+
 public class movezeros {
     static void zeros(int[] arr) {
         int left = 0;

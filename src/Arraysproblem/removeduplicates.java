@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 import java.util.Arrays;
 public class removeduplicates {
     static void remove(int[] arr) {

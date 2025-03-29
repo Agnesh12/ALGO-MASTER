@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 
 public class zerofilledsubarray {
     static int findcount(int[] arr, int count, int num) {

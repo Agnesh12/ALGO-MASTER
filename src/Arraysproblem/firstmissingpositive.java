@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 
 public class firstmissingpositive {
     static void swap(int[] arr, int start, int end) {

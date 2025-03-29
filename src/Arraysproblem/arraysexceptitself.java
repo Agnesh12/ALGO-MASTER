@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 import java.util.Arrays;
 public class arraysexceptitself {
     static void result(int[] arr) {

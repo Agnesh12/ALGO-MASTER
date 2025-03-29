@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 
 public class increaingtripletsubsequence {
      static boolean findsequence(int[] arr) {

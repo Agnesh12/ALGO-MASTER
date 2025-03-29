@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 
 public class majorityelement {
     static void major(int[] arr) {

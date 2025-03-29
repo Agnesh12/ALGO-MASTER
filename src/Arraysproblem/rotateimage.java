@@ -1,4 +1,4 @@
-package Arrays;
+package Arraysproblem;
 import java.util.Arrays;
 public class rotateimage {
     static void reverse(int[] arr, int start, int end) {
