@@ -1,6 +1,6 @@
 package Arraysproblem;
 import java.util.Arrays;
-public class rotateimage {
+public class rotatebyk {
     static void reverse(int[] arr, int start, int end) {
         while(start <= end) {
             int temp = arr[start];
