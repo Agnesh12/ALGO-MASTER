@@ -2,7 +2,7 @@ package BackTracking;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-public class combinationsum {
+public class combinationSum {
     static List<List<Integer>> backtracking(List<List<Integer>> ans, List<Integer> temp, int target, int[] arr, int start, int sum) {
         if(sum == target) {
             ans.add(new ArrayList<>(temp));
