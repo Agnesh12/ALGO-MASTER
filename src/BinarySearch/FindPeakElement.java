@@ -13,10 +13,10 @@ public class FindPeakElement {
                 end = mid;
             }
         }
-        return start;
+        return arr[start];
     }
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 1};
+        int[] arr = {6, 1, 2, 3, 4, 5};
         System.out.print(FindPeak(arr));
     }
 }
